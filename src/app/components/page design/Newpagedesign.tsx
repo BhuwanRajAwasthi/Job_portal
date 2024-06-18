@@ -51,7 +51,7 @@ const Newpagedesign:React.FC = () => {
                 </NavigationMenuList>
                 </NavigationMenu>
                     
-                <Link className="text-sm" href={"#"}>Pricing </Link>
+                <Link className="text-sm" href={"/pricing"}>Pricing </Link>
                 <Link className="text-sm" href={"#"}>About US </Link>
                 <Link className="text-sm" href={"#"}>Blog</Link>
 
